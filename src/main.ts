@@ -1,1 +1,1 @@
-console.log("Hello Vite+TS");
+import './style.css';
